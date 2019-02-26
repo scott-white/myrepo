@@ -1,3 +1,8 @@
 # myrepo
-Testing rstudio integration  
-This is a local change.
+This is a little intro to this README file. Follows by a list:
+
+* Item 1
+* Item 2
+
+
+Next paragraph.
